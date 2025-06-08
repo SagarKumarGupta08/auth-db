@@ -12,6 +12,6 @@
     "shubh": {
         "password": "1",
         "expiry": "3-5-2026",
-        "paused": false
+        "paused": true
     }
 }
