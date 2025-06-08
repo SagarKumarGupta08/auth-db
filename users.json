@@ -9,11 +9,6 @@
         "expiry": "2-2-2031",
         "paused": false
     },
-    "200": {
-        "password": "200",
-        "expiry": "3-3-2031",
-        "paused": true
-    },
     "2d00": {
         "password": "200",
         "expiry": "3-3-2031",
