@@ -8,10 +8,5 @@
         "password": "1",
         "expiry": "6-9-2030",
         "paused": false
-    },
-    "2": {
-        "password": "2",
-        "expiry": "6-9-2030",
-        "paused": false
     }
 }
