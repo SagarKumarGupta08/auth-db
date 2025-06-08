@@ -5,4 +5,12 @@
     "status": "active",
     "hwid": null
   }
+  {
+  "sagar": {
+    "password": "1",
+    "expiry": "2025-06-30",
+    "status": "active",
+    "hwid": null
+  }
+
 }
