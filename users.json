@@ -3,10 +3,5 @@
         "password": "500",
         "expiry": "01-01-2030",
         "paused": false
-    },
-    "2": {
-        "password": "2",
-        "expiry": "9-8-2069",
-        "paused": false
     }
 }
