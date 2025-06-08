@@ -9,15 +9,10 @@
         "expiry": "2-2-2031",
         "paused": false
     },
-    "shubh": {
-        "password": "1",
-        "expiry": "08-08-2050",
-        "paused": false
-    },
     "200": {
         "password": "200",
         "expiry": "3-3-2031",
-        "paused": false
+        "paused": true
     },
     "2d00": {
         "password": "200",
