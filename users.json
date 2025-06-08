@@ -9,11 +9,6 @@
         "expiry": "2-2-2031",
         "paused": false
     },
-    "abc": {
-        "password": "123",
-        "expiry": "2040-01-01",
-        "paused": false
-    },
     "aabc": {
         "password": "123",
         "expiry": "2040-01-01",
