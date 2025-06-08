@@ -12,7 +12,7 @@
     "shubh": {
         "password": "1",
         "expiry": "3-5-2026",
-        "paused": true
+        "paused": false
     },
     "qqqq": {
         "password": "qq",
