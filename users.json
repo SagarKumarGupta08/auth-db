@@ -4,11 +4,6 @@
         "expiry": "01-01-2030",
         "paused": false
     },
-    "1": {
-        "password": "1",
-        "expiry": "2-2-2031",
-        "paused": false
-    },
     "2": {
         "password": "2",
         "expiry": "9-8-2069",
