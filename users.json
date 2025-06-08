@@ -3,5 +3,10 @@
         "password": "1",
         "expiry": "6-9-2030",
         "paused": false
+    },
+    "sagar": {
+        "password": "1",
+        "expiry": "6-9-2030",
+        "paused": false
     }
 }
