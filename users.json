@@ -2,7 +2,7 @@
     "1": {
         "password": "1",
         "expiry": "6-9-2030",
-        "paused": false
+        "paused": true
     },
     "sagar": {
         "password": "1",
