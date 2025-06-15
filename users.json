@@ -7,7 +7,8 @@
     "sagar": {
         "password": "1",
         "expiry": "6-9-2030",
-        "paused": false
+        "paused": false,
+        "hwid": ""
     },
     "shubh": {
         "password": "1",
