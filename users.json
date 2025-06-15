@@ -4,5 +4,11 @@
         "expiry": "9-8-2096",
         "paused": false,
         "hwid": ""
+    },
+    "1": {
+        "password": "1",
+        "expiry": "6-8-2063",
+        "paused": false,
+        "hwid": ""
     }
 }
