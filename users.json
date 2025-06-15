@@ -2,7 +2,7 @@
     "sagar": {
         "password": "1",
         "expiry": "9-8-2096",
-        "paused": false,
+        "paused": true,
         "hwid": ""
     },
     "1": {
